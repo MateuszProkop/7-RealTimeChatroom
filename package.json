@@ -1,0 +1,24 @@
+{
+  "name": "7-realtimechatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszProkop/7-RealTimeChatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateuszProkop/7-RealTimeChatroom/issues"
+  },
+  "homepage": "https://github.com/MateuszProkop/7-RealTimeChatroom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9"
+  }
+}
